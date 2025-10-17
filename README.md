@@ -251,7 +251,3 @@ High-level goals (subject to change):
 - Governance, staking, and LP tooling
 - NFT integrations and cross-chain bridges
 - Operational tooling (monitoring, alerts, admin)
-
----
-
-**⚠️ Disclaimer**: This software is provided "as is" without warranty. Use at your own risk. Always conduct your own research before interacting with any smart contracts. The platform is for educational and experimental purposes only.
