@@ -198,10 +198,6 @@ Integration tests will be added as the backend API and smart-contract flows matu
 
 Performance targets will be published with benchmarks as the platform evolves.
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
-
 ### Development Workflow
 1. Fork the repository
 2. Create a feature branch
