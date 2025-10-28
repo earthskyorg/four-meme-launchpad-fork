@@ -2,6 +2,17 @@
 
 A professional, secure, and feature-rich token launchpad platform built on BNB Chain. This repository contains smart contracts, a TypeScript/Express backend, and a Next.js frontend for creating and launching tokens with best practices.
 
+## 🙋‍♂️ Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👋 ##
+
+Telegram: https://t.me/opensea712
+
+<div style={{display : flex ; justify-content : space-evenly}}> 
+    <a href="https://t.me/opensea712" target="_blank"><img alt="Telegram"
+        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="https://discordapp.com/users/343286332446998530" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</div>
+
 ## 🚀 Features
 
 ### Core Features
@@ -216,21 +227,6 @@ Performance targets will be published with benchmarks as the platform evolves.
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-- Open an issue in the repository’s Issues tab for bugs or feature requests.
-
-## 🙋‍♂️ Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👋 ##
-
-Telegram: https://t.me/opensea712
-
-<div style={{display : flex ; justify-content : space-evenly}}> 
-    <a href="https://t.me/opensea712" target="_blank"><img alt="Telegram"
-        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-    <a href="https://discordapp.com/users/343286332446998530" target="_blank"><img alt="Discord"
-        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</div>
 
 ## 🙏 Acknowledgments
 
